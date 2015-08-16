@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiseHost", "WCFServiseHost\WCFServiseHost.csproj", "{876A8735-D5CD-474D-955A-6BACA731017B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceAssembly", "ServiceAssembly\ServiceAssembly.csproj", "{B15A7634-C980-4CC6-B124-E330A272B910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{64C7D7D8-BF86-4335-B769-E4A33F68093B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876A8735-D5CD-474D-955A-6BACA731017B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876A8735-D5CD-474D-955A-6BACA731017B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876A8735-D5CD-474D-955A-6BACA731017B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876A8735-D5CD-474D-955A-6BACA731017B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15A7634-C980-4CC6-B124-E330A272B910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15A7634-C980-4CC6-B124-E330A272B910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15A7634-C980-4CC6-B124-E330A272B910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15A7634-C980-4CC6-B124-E330A272B910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C7D7D8-BF86-4335-B769-E4A33F68093B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C7D7D8-BF86-4335-B769-E4A33F68093B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C7D7D8-BF86-4335-B769-E4A33F68093B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C7D7D8-BF86-4335-B769-E4A33F68093B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
